@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+
+Name=knotepad
+GenericName=A Simple Application written with KDE Frameworks
+Icon=knotepad
+
+Exec=knotepad
+StartupWMClass=knotepad
+X-DocPath=knotepad/index.html
